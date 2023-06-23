@@ -1,0 +1,41 @@
+.container{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+
+body{
+    background-color: purple;
+    /* background-image: url("images/concert.png"); */
+}
+
+
+p{
+    font-size: 2rem;
+    font-family: cursive;
+    color: rgb(112, 168, 190);
+    text-shadow: 5px 5px #000;
+}
+
+h1{
+    font-size: 5rem;
+    color: rgb(112, 168, 190);
+    font-family:  cursive;
+    text-shadow: 5px 5px #000;
+}
+
+footer{
+    margin: 5%;
+    color: #000;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.img1{
+    width: 95%;
+}
